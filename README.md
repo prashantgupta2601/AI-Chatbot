@@ -45,19 +45,13 @@ Example
 bash
 Copy
 Edit
-💸 Welcome to the API-Powered Price Comparison Bot!
 
+How to use:
+💸 Welcome to the API-Powered Price Comparison Bot!
 🛍️ Enter product name: headphones
 💰 Enter your max budget ($): 100
-
 🔎 Fetching prices... Please wait.
 
-┏━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
-┃ Platform  ┃ Price (USD)   ┃
-┡━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
-│ eBay      │ $59.99        │
-│ Walmart   │ $62.49        │
-└───────────┴───────────────┘
 Notes:
 This bot uses web scraping, which may stop working if the website structure changes.
 
